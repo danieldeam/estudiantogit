@@ -1,6 +1,6 @@
-# Estudianto GIT
+# Estudiando GIT
 
-Es estudiando, pero eso va
+
 
 ## Installation
 
